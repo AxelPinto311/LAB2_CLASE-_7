@@ -1,0 +1,7 @@
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\bin\Debug\CLASE 7.exe.config
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\bin\Debug\CLASE 7.exe
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\bin\Debug\CLASE 7.pdb
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\obj\Debug\CLASE 7.csprojAssemblyReference.cache
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\obj\Debug\CLASE 7.csproj.CoreCompileInputs.cache
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\obj\Debug\CLASE 7.exe
+C:\Users\Ultrabytes\source\repos\CLASE 7\CLASE 7\obj\Debug\CLASE 7.pdb
